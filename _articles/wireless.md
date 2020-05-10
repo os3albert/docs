@@ -22,6 +22,8 @@ WiFi issues are influenced by many different factors, including:
 
 ### Basic Troubleshooting
 
+Easy way is connect the LAN cable to the modem and click UPDATE ALL in the Pop!_Shop, there appear also the missed wifi driver.
+
 If you’re having problems, try these steps first:
 
 - Try unplugging the wireless router or modem to reboot it.
